@@ -97,8 +97,21 @@ Successfully installed fastapi-0.116.0 starlette-0.46.2 uvicorn-0.35.0
 
 ![image](https://github.com/user-attachments/assets/dd35289b-26a9-4075-9084-d1d3348a33c2)
 ![image](https://github.com/user-attachments/assets/0d9e14fa-ef74-477b-ab41-846e187e2b3d)
-
 http://127.0.0.1:8000/docs#/default/read_todo_item_todos__todo_id__get
+
+References -
+https://discuss.streamlit.io/t/langchain-tutorial-4-build-an-ask-the-doc-app/45688
+https://dev.to/armandsauzay/using-conda-environments-for-python-all-you-need-to-know-2n5p
+https://github.com/Nneji123/Credit-Card-Fraud-Detection
+https://medium.com/@rtales/building-a-smart-document-assistant-with-streamlit-afd80d0f3b14
+https://discuss.streamlit.io/t/getting-an-error-streamlit-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file/361/2
+https://pybit.es/articles/my-experience-building-a-fastapi-streamlit-app/
+https://medium.com/@obaff/building-a-website-with-python-fastapi-and-streamlit-418f48c41af2
+
+
+Doc Ingestor Streamli UI Designs - 
+![image](https://github.com/user-attachments/assets/90cba75b-25e3-48da-adbd-c13c8a30d731)
+![image](https://github.com/user-attachments/assets/d697feab-1bbe-4f59-a7ca-0422bdb4c025)
 
 
 
